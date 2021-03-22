@@ -3,6 +3,8 @@ Some recipes for data engineering with Python
 
 ## decli.py
 
+This is a "teaching" tool that shows how a library like Pandas, or potentially Spark can be combined to do operations on a data set.  Different columns can be selected for "grouping" and different columns for "applying" and the "apply" itself can be any function you write.
+
 * Create a source a Python virtualenv 
 ```python3 -m venv ~/.pyde && source ~/.pyde/bin/activate```
 
