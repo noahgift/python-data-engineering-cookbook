@@ -7,7 +7,7 @@ Some recipes for data engineering with Python
 ![data-engineering-tool](https://user-images.githubusercontent.com/58792/112189504-752dcf80-8bda-11eb-8f1b-8993107236c7.png)
 
 
-## decli.py
+## Data Engineering CLI csvutil.py
 
 This is a "teaching" tool that shows how a library like Pandas, or potentially Spark can be combined to do operations on a data set.  Different columns can be selected for "grouping" and different columns for "applying" and the "apply" itself can be any function you write.
 
