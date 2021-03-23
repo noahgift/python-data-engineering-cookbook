@@ -1,3 +1,6 @@
+[![Python application test with Github Actions](https://github.com/noahgift/python-data-engineering-cookbook/actions/workflows/python-publish.yml/badge.svg)](https://github.com/noahgift/python-data-engineering-cookbook/actions/workflows/python-publish.yml)
+
+
 # Python Data Engineering Cookbook
 Some recipes for data engineering with Python
 
