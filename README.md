@@ -15,14 +15,14 @@ This is a "teaching" tool that shows how a library like Pandas, or potentially S
 Check Version:
 
 ```
-(.pai-aws) ➜  pai-aws git:(master) ✗ ./csvutil.py --version
+ ./csvutil.py --version
 csvutil.py, version 0.1
 ```
 
 Check Help:
 
 ```
-(.pai-aws) ➜  pai-aws git:(master) ✗ ./csvutil.py --help   
+./csvutil.py --help   
 Usage: csvutil.py [OPTIONS] COMMAND [ARGS]...
 
   CSV Operations Tool
@@ -37,7 +37,7 @@ Options:
 Aggregate CSV
 
 ```
-(.pai-aws) ➜  pai-aws git:(master) ✗ ./csvcli.py cvsagg --file ext/input.csv --column last_name
+./csvcli.py cvsagg --file ext/input.csv --column last_name
 Processing csvfile: ext/input.csv and column name: last_name
 {"count":{"mcgregor":34,"lee":3,"norris":27}}
 ```
