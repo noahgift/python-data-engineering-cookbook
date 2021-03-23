@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 """
 Commandline Tool For Doing CSV operations:
-
-    * Aggregation
-    * TBD
-
 """
 
 import sys
